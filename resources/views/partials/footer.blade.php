@@ -1,0 +1,1 @@
+<footer class="bg-gray-800 p-4 text-white text-center mt-10">© 2026 Purrnando</footer>
