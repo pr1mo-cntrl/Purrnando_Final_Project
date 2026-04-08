@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Purrnando Adoption</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+    @vite('resources/css/app.css')
 </head>
 <body class="bg-gray-100 flex flex-col min-h-screen">
     <header class="bg-orange-500 p-4 text-white font-bold text-2xl">Purrnando</header>
